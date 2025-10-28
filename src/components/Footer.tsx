@@ -77,7 +77,7 @@ const Footer: React.FC = () => {
       
       <div className="max-w-7xl mx-auto px-4 mt-8 pt-8 border-t border-[#D4AF37]/30 text-center">
         <p className="text-white/60" style={{ fontFamily: 'Times New Roman, serif' }}>
-          © 2025 Sara Quirós Makeup y Beauty. Todos los derechos reservados.
+          © 2025 Sara Quiros Makeup y Beauty. Todos los derechos reservados.
         </p>
       </div>
     </footer>

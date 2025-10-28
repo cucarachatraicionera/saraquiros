@@ -19,7 +19,7 @@ const AboutSection: React.FC = () => {
           
           <div className="space-y-6">
             <p className="text-xl text-white/90 leading-relaxed" style={{ fontFamily: 'Times New Roman, serif' }}>
-              Soy <span className="text-[#D4AF37] font-bold">Sara Quirós</span>, profesional en belleza con más de seis años de experiencia en maquillaje, colorimetría y formación.
+              Soy <span className="text-[#D4AF37] font-bold">Sara Quiros</span>, profesional en belleza con más de seis años de experiencia en maquillaje, colorimetría y formación.
             </p>
             
             <p className="text-xl text-white/90 leading-relaxed" style={{ fontFamily: 'Times New Roman, serif' }}>
