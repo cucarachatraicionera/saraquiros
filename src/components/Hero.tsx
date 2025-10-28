@@ -17,13 +17,13 @@ const Hero: React.FC = () => {
         <div className="mb-8">
           <img 
             src="https://d64gsuwffb70l.cloudfront.net/688f79fd386758b8b20a69d2_1761679446379_f29ebf63.png"
-            alt="Sara Quirós"
+            alt="Sara Quiros"
             className="w-48 h-48 rounded-full mx-auto border-4 border-[#D4AF37] shadow-2xl shadow-[#D4AF37]/50 object-cover"
           />
         </div>
         
         <h1 className="text-6xl md:text-8xl font-bold text-[#D4AF37] mb-4" style={{ fontFamily: 'Brittany, cursive' }}>
-          Sara Quirós
+          Sara Quiros
         </h1>
         <p className="text-3xl md:text-4xl text-white mb-6" style={{ fontFamily: 'Brittany, cursive' }}>
           Makeup y Beauty

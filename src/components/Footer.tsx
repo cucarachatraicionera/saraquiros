@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
       <div className="max-w-7xl mx-auto px-4 grid grid-cols-1 md:grid-cols-4 gap-8">
         <div>
           <h3 className="text-3xl font-bold text-[#D4AF37] mb-4" style={{ fontFamily: 'Brittany, cursive' }}>
-            Sara Quirós
+            Sara Quiros
           </h3>
           <p className="text-white/80" style={{ fontFamily: 'Times New Roman, serif' }}>
             Belleza con propósito, creada para inspirar

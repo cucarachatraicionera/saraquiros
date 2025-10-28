@@ -12,7 +12,7 @@ const AboutSection: React.FC = () => {
           <div>
             <img 
               src="https://i.ibb.co/kgVTq6Hy/Whats-App-Image-2025-10-28-at-3-16-43-PM.jpg"
-              alt="Sara Quirós"
+              alt="Sara Quiros"
               className="rounded-lg border-4 border-[#D4AF37] shadow-2xl shadow-[#D4AF37]/30 w-full"
             />
           </div>

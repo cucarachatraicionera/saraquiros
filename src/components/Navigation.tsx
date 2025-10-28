@@ -26,7 +26,7 @@ const Navigation: React.FC = () => {
           style={{ fontFamily: 'Brittany, cursive' }}
           onClick={() => scrollTo('hero')}
         >
-          Sara Quirós
+          Sara Quiros
         </h1>
         
         <button
