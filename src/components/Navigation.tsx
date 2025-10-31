@@ -21,14 +21,13 @@ const Navigation: React.FC = () => {
   return (
     <nav className="fixed top-0 left-0 right-0 z-50 bg-black/95 backdrop-blur-sm border-b border-[#D4AF37]">
       <div className="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
-        <h1 
-          className="text-3xl font-bold text-[#D4AF37] cursor-pointer"
-          style={{ fontFamily: 'Brittany, cursive' }}
-          onClick={() => scrollTo('hero')}
-        >
-          Sara Quiros
-        </h1>
-        
+       <h1
+  className="text-3xl font-bold text-[#D4AF37] cursor-pointer"
+  style={{ fontFamily: '"Tinos", "Times New Roman", Times, serif' }}
+  onClick={() => scrollTo('hero')}
+>
+  Sara Quiros
+</h1>
         <button
           onClick={() => setMenuOpen(!menuOpen)}
           className="md:hidden text-[#D4AF37] text-3xl"

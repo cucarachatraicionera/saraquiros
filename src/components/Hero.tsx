@@ -22,9 +22,13 @@ const Hero: React.FC = () => {
           />
         </div>
         
-        <h1 className="text-6xl md:text-8xl font-bold text-[#D4AF37] mb-4" style={{ fontFamily: 'Brittany, cursive' }}>
-          Sara Quiros
-        </h1>
+        <h1
+  className="text-6xl md:text-8xl font-bold text-[#D4AF37] mb-4"
+  style={{ fontFamily: '"Tinos","Times New Roman",Times,serif' }}
+>
+  Sara Quiros
+</h1>
+
         <p className="text-3xl md:text-4xl text-white mb-6" style={{ fontFamily: 'Brittany, cursive' }}>
           Makeup y Beauty
         </p>
